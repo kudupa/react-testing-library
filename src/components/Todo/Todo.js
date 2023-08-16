@@ -13,7 +13,6 @@ function Todo() {
             <Header title="Todo" />
             <AddInput 
                 setTodos={setTodos}
-                todos={todos}
             />
             <TodoList 
                 todos={todos}

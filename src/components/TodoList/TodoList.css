@@ -21,7 +21,7 @@
     cursor: pointer;
 }
 
-.todo-item-active {
+.todo-item-complete {
     text-decoration: line-through;
     color: grey
 }
